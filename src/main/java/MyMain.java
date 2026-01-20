@@ -1,5 +1,5 @@
 public class MyMain {
-  // This is the example problem that we did in class
+  // We will do this as an example problem in class.
   // This uses recursion to calculate the factorial method
   // factorial(5) = 5 * 4 * 3 * 2 * 1 = 120
   public static int factorial(int x) {
@@ -42,8 +42,7 @@ public class MyMain {
     return -1;
   }
 
-  // Methods for homework:
-  // Write a method that calculate the exponents, given a base
+  // Write a method that calculates an exponent, given a base
   // and a power
   // Examples:
   // exponent(2, 5) = 2 * 2 * 2 * 2 * 2 = 32
